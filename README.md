@@ -5,7 +5,9 @@
 My expertise lies in programming, data analysis, data warehousing, and data visualization. I love turning complex data into actionable insights and innovative solutions.
 In addition to my professional skills, I was a cofounder of a startup in China, where I gained experience in retail business and improving work processes through automation and efficient practices.
 
-![Skills: MySQL / Python  / R / Tableau ]
+[![My Skills](https://skillicons.dev/icons?i=r,py,mysql&theme=light)](https://skillicons.dev)
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tableau.svg" width="50"></a>
+
 
 - 📫 How to reach me: yixxinliu@gmail.com 
 
